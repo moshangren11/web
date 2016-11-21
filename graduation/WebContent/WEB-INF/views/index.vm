@@ -1,0 +1,4 @@
+#set($layout = "layout/layout.vm")
+<body>
+<title>index</title>
+<meta name="author" content="DeathGhost" />
