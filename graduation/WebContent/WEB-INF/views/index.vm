@@ -1,4 +1,4 @@
 #set($layout = "layout/layout.vm")
 <body>
 <title>index</title>
-<p>Hello world！</p>
+<p>Hello world</p>
